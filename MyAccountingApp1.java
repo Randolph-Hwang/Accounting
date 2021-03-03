@@ -1,5 +1,5 @@
 
-public class MyAccountingApp {
+public class MyAccountingApp { 
 
 	public static void main(String[] args) {
 			
