@@ -26,7 +26,6 @@ public class MyAccountingApp4 {
 		dividendRates[1] = 0.3;
 		dividendRates[2] = 0.2;
 		
-		
 		System.out.println("Your Product : "+id);
 		System.out.println("Value of supply : "+vOS);
 		System.out.println("VAT : " +getVAT());
