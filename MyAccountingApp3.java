@@ -14,7 +14,7 @@ public class MyAccountingApp3 {
 		double Income = VOS - Expense;
 		
 		double [] dividendRates = new double [3];
-		dividendRates[0] = 0.5;
+		dividendRates[0] = 0.5;  
 		dividendRates[1] = 0.3;
 		dividendRates[2] = 0.2;
 		
