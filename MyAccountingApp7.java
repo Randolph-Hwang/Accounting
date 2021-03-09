@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class MyAccountingApp7 {
+public class MyAccountingApp7 { 
 
 	public static double vatRate;
 	public static double vOS;
