@@ -58,4 +58,4 @@ public class MyAccountingApp8 {
 	private static double getVAT(double vOS) {
 		return vOS * vatRate;
 	}
-}
+} 
